@@ -1,0 +1,6 @@
+@ModularMonolith_DecoupledBoundaries_HostAddress = http://localhost:5167
+
+GET {{ModularMonolith_DecoupledBoundaries_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

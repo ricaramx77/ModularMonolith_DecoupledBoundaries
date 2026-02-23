@@ -1,8 +1,7 @@
-﻿using ModularMonolith_DecoupledBoundaries.Data;
-using ModularMonolith_DecoupledBoundaries.DomainEvents;
+﻿using ModularMonolith_DecoupledBoundaries.DomainEvents;
 using ModularMonolith_DecoupledBoundaries.DomainEvents.Interfaces;
 
-namespace ModularMonolith_DecoupledBoundaries.Services
+namespace ModularMonolith_DecoupledBoundaries.BillingModule
 {
     public class BillingService
     {

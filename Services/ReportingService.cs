@@ -1,4 +1,4 @@
-﻿using ModularMonolith_DecoupledBoundaries.Data;
+﻿using ModularMonolith_DecoupledBoundaries.BillingModule;
 using ModularMonolith_DecoupledBoundaries.DomainEvents;
 
 namespace ModularMonolith_DecoupledBoundaries.Services

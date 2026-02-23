@@ -1,7 +1,7 @@
 ﻿using ModularMonolith_DecoupledBoundaries.DomainEvents;
 using ModularMonolith_DecoupledBoundaries.NotificationModule;
 
-namespace ModularMonolith_DecoupledBoundaries.Services
+namespace ModularMonolith_DecoupledBoundaries.UserModule
 {
     public class UserService : IDomainEventHandler<UserInactiveEvent>
     {

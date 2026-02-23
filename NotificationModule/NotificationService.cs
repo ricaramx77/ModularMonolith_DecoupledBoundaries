@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Components;
-using ModularMonolith_DecoupledBoundaries.Data;
 using ModularMonolith_DecoupledBoundaries.DomainEvents;
 
-namespace ModularMonolith_DecoupledBoundaries.Services
+namespace ModularMonolith_DecoupledBoundaries.NotificationModule
 {
     public class NotificationService : IDomainEventHandler<CustomerChargedEvent>, 
                                        IDomainEventHandler<InvoiceSentEvent>                                       

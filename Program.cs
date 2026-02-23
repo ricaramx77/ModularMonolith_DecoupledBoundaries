@@ -2,9 +2,9 @@ using Asp.Versioning;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi;
 using ModularMonolith_DecoupledBoundaries.BillingModule;
-using ModularMonolith_DecoupledBoundaries.Data;
 using ModularMonolith_DecoupledBoundaries.DomainEvents;
 using ModularMonolith_DecoupledBoundaries.DomainEvents.Interfaces;
+using ModularMonolith_DecoupledBoundaries.NotificationModule;
 using ModularMonolith_DecoupledBoundaries.Services;
 
 var builder = WebApplication.CreateBuilder(args);

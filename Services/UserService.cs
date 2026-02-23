@@ -1,5 +1,5 @@
-﻿using ModularMonolith_DecoupledBoundaries.Data;
-using ModularMonolith_DecoupledBoundaries.DomainEvents;
+﻿using ModularMonolith_DecoupledBoundaries.DomainEvents;
+using ModularMonolith_DecoupledBoundaries.NotificationModule;
 
 namespace ModularMonolith_DecoupledBoundaries.Services
 {

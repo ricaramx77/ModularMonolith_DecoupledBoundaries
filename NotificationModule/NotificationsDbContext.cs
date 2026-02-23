@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace ModularMonolith_DecoupledBoundaries.Data
+namespace ModularMonolith_DecoupledBoundaries.NotificationModule
 {
     public class NotificationsDbContext : DbContext
     {

@@ -1,8 +1,7 @@
 ﻿using Asp.Versioning;
 using Microsoft.AspNetCore.Mvc;
-using ModularMonolith_DecoupledBoundaries.Services;
 
-namespace ModularMonolith_DecoupledBoundaries.Controllers
+namespace ModularMonolith_DecoupledBoundaries.ReportingModule
 {
     [ApiController]
     [Route("api/v{version:apiVersion}/reports")]

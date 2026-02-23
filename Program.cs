@@ -5,6 +5,7 @@ using ModularMonolith_DecoupledBoundaries.BillingModule;
 using ModularMonolith_DecoupledBoundaries.DomainEvents;
 using ModularMonolith_DecoupledBoundaries.DomainEvents.Interfaces;
 using ModularMonolith_DecoupledBoundaries.NotificationModule;
+using ModularMonolith_DecoupledBoundaries.ReportingModule;
 using ModularMonolith_DecoupledBoundaries.Services;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,7 +1,7 @@
 ﻿using ModularMonolith_DecoupledBoundaries.BillingModule;
 using ModularMonolith_DecoupledBoundaries.DomainEvents;
 
-namespace ModularMonolith_DecoupledBoundaries.Services
+namespace ModularMonolith_DecoupledBoundaries.ReportingModule
 {
     public class ReportingService : IDomainEventHandler<MonthEndedEvent>
     {
